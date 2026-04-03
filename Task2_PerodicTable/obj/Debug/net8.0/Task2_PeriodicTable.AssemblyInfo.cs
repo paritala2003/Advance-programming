@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task2_PeriodicTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ca5fd0c0fb476c8d45da405ea8cb5c800c4a67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task2_PeriodicTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task2_PeriodicTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
