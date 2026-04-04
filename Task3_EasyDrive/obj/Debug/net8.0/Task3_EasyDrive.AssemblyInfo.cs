@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task3_EasyDrive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499f8c0be02b86ebe6b24a4e2af6e9d5de8717dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90320f8016499a65f633b844de288a811d0fa4ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task3_EasyDrive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task3_EasyDrive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
