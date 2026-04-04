@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Task 1_Churros\\Task2_PerodicTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD849C76-FA01-4FB0-8E0F-B91388927B0B}|Task2_PeriodicTable.csproj|d:\\code\\task 1_churros\\task2_perodictable\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD849C76-FA01-4FB0-8E0F-B91388927B0B}|Task2_PeriodicTable.csproj|solutionrelative:elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD849C76-FA01-4FB0-8E0F-B91388927B0B}|Task2_PeriodicTable.csproj|d:\\code\\task 1_churros\\task2_perodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD849C76-FA01-4FB0-8E0F-B91388927B0B}|Task2_PeriodicTable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elements.cs",
+              "DocumentMoniker": "D:\\code\\Task 1_Churros\\Task2_PerodicTable\\Elements.cs",
+              "RelativeDocumentMoniker": "Elements.cs",
+              "ToolTip": "D:\\code\\Task 1_Churros\\Task2_PerodicTable\\Elements.cs",
+              "RelativeToolTip": "Elements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T22:22:48.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\Task 1_Churros\\Task2_PerodicTable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\code\\Task 1_Churros\\Task2_PerodicTable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T22:20:51.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

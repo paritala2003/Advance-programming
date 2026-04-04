@@ -1,0 +1,15 @@
+D:\code\Task 1_Churros\Task3_EasyDrive\bin\Debug\net8.0\Task3_EasyDrive.exe
+D:\code\Task 1_Churros\Task3_EasyDrive\bin\Debug\net8.0\Task3_EasyDrive.deps.json
+D:\code\Task 1_Churros\Task3_EasyDrive\bin\Debug\net8.0\Task3_EasyDrive.runtimeconfig.json
+D:\code\Task 1_Churros\Task3_EasyDrive\bin\Debug\net8.0\Task3_EasyDrive.dll
+D:\code\Task 1_Churros\Task3_EasyDrive\bin\Debug\net8.0\Task3_EasyDrive.pdb
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.AssemblyInfoInputs.cache
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.AssemblyInfo.cs
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.csproj.CoreCompileInputs.cache
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.sourcelink.json
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.dll
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\refint\Task3_EasyDrive.dll
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.pdb
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\Task3_EasyDrive.genruntimeconfig.cache
+D:\code\Task 1_Churros\Task3_EasyDrive\obj\Debug\net8.0\ref\Task3_EasyDrive.dll

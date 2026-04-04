@@ -1,0 +1,29 @@
+D:\code\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.exe
+D:\code\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.deps.json
+D:\code\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.runtimeconfig.json
+D:\code\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.dll
+D:\code\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.pdb
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.AssemblyInfoInputs.cache
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.AssemblyInfo.cs
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.csproj.CoreCompileInputs.cache
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.dll
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\refint\Task2_PeriodicTable.dll
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.pdb
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.genruntimeconfig.cache
+D:\code\Task2_PerodicTable\obj\Debug\net8.0\ref\Task2_PeriodicTable.dll
+D:\code\Task 1_Churros\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.exe
+D:\code\Task 1_Churros\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.deps.json
+D:\code\Task 1_Churros\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.runtimeconfig.json
+D:\code\Task 1_Churros\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.dll
+D:\code\Task 1_Churros\Task2_PerodicTable\bin\Debug\net8.0\Task2_PeriodicTable.pdb
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.AssemblyInfoInputs.cache
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.AssemblyInfo.cs
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.csproj.CoreCompileInputs.cache
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.sourcelink.json
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.dll
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\refint\Task2_PeriodicTable.dll
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.pdb
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\Task2_PeriodicTable.genruntimeconfig.cache
+D:\code\Task 1_Churros\Task2_PerodicTable\obj\Debug\net8.0\ref\Task2_PeriodicTable.dll
